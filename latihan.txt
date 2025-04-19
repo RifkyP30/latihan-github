@@ -1,7 +1,3 @@
-Manchester United 
+main
 
-players:
--Justin botak
--kocak apa ini
--kocak lagi
-nih pemain kek.
+gimana kalo je main
