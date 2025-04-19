@@ -7,3 +7,5 @@ players:
 - Messi
 - Ronaldo
 - Garnacho
+
+branch barcelona: lamine yamal, pedri, raphinha, lewandowski
