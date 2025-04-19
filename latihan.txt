@@ -2,3 +2,6 @@ Manchester United
 
 players:
 - si hanif sangat mencintai nabila.
+
+- jika hanif mencintai nabila, nabila mencintai yang lain
+- maka hanif tidak mencintai si hanif yang mencintai nabila.
