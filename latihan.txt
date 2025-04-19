@@ -1,11 +1,10 @@
-Manchester United is the best club in the world.
-Manchester United is worst club in the world too.
-I am a huge fan of Manchester United and I think they are the best club in the world.
+Manchester United 
 
 players:
 - Neymar
 - Messi
 - Ronaldo
-- Garnacho
-
-branch barcelona: lamine yamal, pedri, raphinha, lewandowski
+- Garnacho Kicked
+- Maguare
+- Degea
+- Mazroui
