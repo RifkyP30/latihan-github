@@ -1,10 +1,4 @@
 Manchester United 
 
 players:
-- Marselino
-- Ole romeny
-- Rizky ridho
-- Garnacho Kicked
-- Maguare
-- Degea
-- Mazroui
+-coah justin
