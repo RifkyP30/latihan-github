@@ -1,1 +1,1 @@
-# latihan-github okegas
+# latihan-github okegas.
